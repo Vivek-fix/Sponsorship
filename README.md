@@ -1,1 +1,1 @@
-# Sponsorship Code Chnges and TestCases
+# Sponsorship Code Changes and TestCases
